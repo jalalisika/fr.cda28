@@ -1,0 +1,6 @@
+# Les fichiers/dossiers propres à Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+/target/
